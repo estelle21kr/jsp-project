@@ -1,0 +1,24 @@
+# IDE
+.metadata/
+.settings/
+.classpath
+.project
+.idea/
+
+# Build
+build/
+target/
+*.class
+
+# Server
+Servers/
+
+# Config (민감한 정보)
+config.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
